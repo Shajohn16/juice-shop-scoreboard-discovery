@@ -113,3 +113,4 @@ The Score Board is a **secret page** within the Juice Shop application that list
 
 ## ✅ Challenge Completed
 
+# juice-shop-scoreboard-discovery
