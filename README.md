@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # juice-shop-scoreboard-discovery
 # Juice Shop Scoreboard Discovery (OWASP Juice Shop)
 
@@ -68,3 +69,6 @@ Copy code
 ## Step 1: Start Juice Shop
 ```bash
 docker run --rm -d -p 3000:3000 bkimminich/juice-shop
+=======
+# juice shop scoreboard discovery
+>>>>>>> d4fff1d69989e41b73f92fc46800f3d023feee52
